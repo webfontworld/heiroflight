@@ -1,5 +1,3 @@
-# heiroflight
-
 # 빛의 계승자(HeirofLight)
 
 <a href="https://wess.tistory.com" target="_blank">
